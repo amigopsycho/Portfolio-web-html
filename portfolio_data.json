@@ -1,0 +1,88 @@
+{
+    "name": "Sandeep S",
+    "title": "Full Stack Web Developer",
+    "contact": {
+        "email": "sandeep17ec23@gmail.com",
+        "phone": "+91 9605 938 462",
+        "location": "Bangalore, Karnataka, India",
+        "linkedin": "https://www.linkedin.com/in/sandeep-s",
+        "github": "https://github.com/sandeep17ec23"
+    },
+    "about": "Dynamic and results-oriented Full Stack Web Developer with experience in designing and implementing innovative web solutions using Angular and .NET technologies. Proven ability to deliver high-quality software within project timelines while collaborating with cross-functional teams to drive project success.",
+    "skills": {
+        "programming_languages": [
+            "C#",
+            "JavaScript",
+            "TypeScript"
+        ],
+        "front_end": [
+            "Angular (latest)",
+            "HTML5",
+            "CSS3"
+        ],
+        "back_end": [
+            ".NET",
+            "ASP.NET Web API",
+            "Node.js"
+        ],
+        "database": [
+            "SQL Server",
+            "Entity Framework"
+        ],
+        "version_control": [
+            "Git",
+            "GitLab",
+            "GitHub"
+        ],
+        "tools": [
+            "Visual Studio",
+            "VS Code",
+            "Postman",
+            "Microsoft SQL Server Management Studio"
+        ]
+    },
+    "education": [
+        {
+            "degree": "B.E Electronics and Communication Engineering",
+            "institution": "Anna University, Tamil Nadu",
+            "year": "2017 - 2021"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Happiest Minds Technology",
+            "position": "Software Engineer",
+            "location": "Bangalore, Karnataka, India",
+            "duration": "July 2022 \u2013 Present",
+            "responsibilities": [
+                "Developed multiple micro front ends (MFEs) and APIs for projects.",
+                "Ensured seamless integration of micro front ends with robust APIs, enhancing user experience.",
+                "Collaborated with UI/UX designers to create visually appealing and user-friendly interfaces.",
+                "Utilized Git for version control and actively participated in agile development sprints."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Edutech Platform Enhancement",
+            "description": "Contributed to the development and enhancement of multiple micro front ends and APIs, optimizing performance and scalability of an Edutech platform.",
+            "technologies": [
+                "Angular",
+                ".NET",
+                "APIs"
+            ]
+        },
+        {
+            "name": "Student Management System",
+            "description": "Designed and implemented student management features, ensuring efficient data tracking and management using Angular and .NET.",
+            "technologies": [
+                "Angular",
+                ".NET"
+            ]
+        }
+    ],
+    "callToAction": {
+        "message": "Looking to collaborate on innovative web development projects? Let's connect!",
+        "buttonText": "Contact Me"
+    }
+}
